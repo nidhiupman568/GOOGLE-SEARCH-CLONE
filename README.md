@@ -3,7 +3,7 @@
 # 🌐 Google Clone
 
 ## 📖 Description
-This project is a clone of the Google search engine, created using HTML, CSS, JavaScript, Tailwind CSS, and Next.js 14. The clone mimics the look and feel of the original Google homepage with features like a search bar, Gmail option, Images option, Sign-in option, and many more.
+This project is a clone of the Google search engine, created using 🌐 HTML, 🎨 CSS, 💻 JavaScript, 🌈 Tailwind CSS, and ⚛️ Next.js 14. The clone mimics the look and feel of the original Google homepage with features like a 🔍 search bar, 📧 Gmail option, 🖼️ Images option, 🔑 Sign-in option, and many more.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
