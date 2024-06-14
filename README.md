@@ -49,11 +49,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## 📋 Additional Project
+## 📋 How to use
 
 Clone the repository:'https://github.com/nidhiupman568/GOOGLE-SEARCH-CLONE.git'
 
-Open `index.html` in your web browser to start playing the Sudoku Game.
+
 
 ## 📸 Screenshots (Output)
 Here’s a preview of the Sudoku Game in action:
